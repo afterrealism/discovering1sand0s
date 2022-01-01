@@ -5,3 +5,5 @@ matplotlib
 torchvision
 numpy
 ipywidgets
+requests
+beautifulsoup4
