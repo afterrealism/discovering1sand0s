@@ -7,3 +7,6 @@ numpy
 ipywidgets
 requests
 beautifulsoup4
+deep_phonemizer
+torchaudio
+fastai
