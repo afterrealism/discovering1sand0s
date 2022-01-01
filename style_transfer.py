@@ -4,7 +4,9 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 import matplotlib.pyplot as plt
-
+import ipywidgets as widgets
+from PIL import Image
+import io
 import torchvision.transforms as transforms
 import torchvision.models as models
 import warnings
